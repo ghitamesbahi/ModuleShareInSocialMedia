@@ -3,5 +3,13 @@ Module Omeka S pour le partage de contenu via les réseaux sociaux (Facebook, Tw
 
 Ce module permet d'ajouter des boutons aux pages du site que les visiteurs peuvent utiliser pour partager et intégrer du contenu du site sur les médias sociaux ou par courrier électronique.
 
+Une fois le partage installé et activé pour une installation Omeka S, il est disponible pour tous les sites de l’installation.
+
+# A quoi servira ce projet? 
+Ce projet servira a faire connaitre Omeka S, et les modules de Omeka S pour un public plus large.
+
+# Qui peut utiliser ce module?
+N'importe quel utilisateur Omeka S peut l'utiliser car il est simple d'utilisation et se limite à 3 bouttons. 
+
 # Remarque 
 Ce projet est toujours en phase de developpement, il ne marche toujours pas.
