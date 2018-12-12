@@ -13,7 +13,9 @@ N'importe quel utilisateur Omeka S peut l'utiliser car il est simple d'utilisati
 
 ![sharing_options](https://user-images.githubusercontent.com/43574493/49864989-001c9e80-fe04-11e8-85ff-dc73476f26a7.png)
 
+# Résultat finale
 
 # Remarque 
 Ce projet est toujours en phase de developpement, il ne marche toujours pas.
+
 Ce projet est inspiré d'un module Omeka S déjà existant.
