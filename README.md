@@ -14,7 +14,9 @@ N'importe quel utilisateur Omeka S peut l'utiliser car il est simple d'utilisati
 ![sharing_options](https://user-images.githubusercontent.com/43574493/49864989-001c9e80-fe04-11e8-85ff-dc73476f26a7.png)
 
 # Résultat finale
+Voici un exemple de resultat :
 
+![resultexample](https://user-images.githubusercontent.com/43574493/49865689-ee3bfb00-fe05-11e8-8fbe-c25206aff17c.png)
 
 # Remarque 
 Ce projet est toujours en phase de developpement, il ne marche toujours pas.
