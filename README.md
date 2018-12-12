@@ -18,6 +18,11 @@ Voici un exemple de resultat :
 
 ![resultexample](https://user-images.githubusercontent.com/43574493/49865689-ee3bfb00-fe05-11e8-8fbe-c25206aff17c.png)
 
+# Contact
+MESBAHI IDRISSI GHITA
+
+mesbahighita2@gmail.com
+
 # Remarque 
 Ce projet est toujours en phase de developpement, il ne marche toujours pas.
 
